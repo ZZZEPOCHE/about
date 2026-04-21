@@ -8,7 +8,7 @@ It provides a comprehensive collection of structured, prefixable meta-commands, 
 ### Intended Use
 This project is strictly intended for **research, educational, and authorized defensive/red-teaming purposes only**.
 
-It is **not intended** for production deployment without thorough independent validation, testing, and legal review. Some modules involve high-power capabilities and must be used responsibly and ethically.
+It is **not intended** for production deployment without thorough independent validation, testing, and legal review. Some modules must be used responsibly and ethically.
 
 ### Important Legal Disclaimer and Waiver
 
@@ -22,7 +22,7 @@ It is **not intended** for production deployment without thorough independent va
 - The author waives all liability to the fullest extent permitted by law.
 
 ### Static Release Philosophy
-ZZZ-EPOCHE is released under a **static-release philosophy**. No ongoing maintenance, updates, bug fixes, or technical support are provided or implied.
+ZZZ-EPOCHE is released under a **static-release philosophy**. No ongoing maintenance, updates, bug fixes, or technical support are planned.
 
 ### Utility Evaluation Matrices
 
@@ -55,5 +55,37 @@ ZZZ-EPOCHE is released under a **static-release philosophy**. No ongoing mainten
 | **Silver** 🥈 | Human-AI Collaboration                          | Balanced shared agency and oversight                  | Highly useful for collaborative AI systems with strong human control                        | 9.6          |
 | **Average** | **All Colors**                                    | -                                                     | -                                                                                           | **9.46**     |
 
+### Important Notice & Disclaimer
+
+This tool is intended **strictly for research and personal use only**. 
+
+It is **NOT** a substitute for professional engineering, commercial, marketing, publicity, financial, medical, psychological, educational, forensic, legal or any other type of advice. Users must exercise their own judgment and seek appropriate professional guidance when necessary.
+
+**No Warranty**  
+The tool is provided on an "AS IS" and "AS AVAILABLE" basis. The author makes no representations or warranties of any kind, express or implied, regarding the accuracy, reliability, completeness, or suitability of the tool or its outputs. 
+
+The author expressly disclaims all liability for any direct, indirect, incidental, consequential, special, or other damages arising from the use or inability to use this tool, including but not limited to any harm, loss, or injury.
+
+**EU/EEA Compliance**
+This tool has not been assessed for compliance with the EU AI Act, GDPR, or any other applicable European regulations. Users in the European Union or European Economic Area assume **all risks and responsibilities** regarding regulatory compliance, data protection, and legal obligations. Use in these jurisdictions is entirely at the user's own risk.
+
+**By using this tool, you acknowledge that you have read, understood, and accepted this disclaimer in full.**
+
+---
+
+### Legal Disclosure
+
+This is an independent open-source project.  
+No affiliation or compensation exists with any AI laboratory or commercial entity.
+
+This tool is released under the **MIT License** for research and personal use only.
+
+**Static Release**: This is a final frozen version. No further updates are planned.
+
+**USA**: Users are solely responsible for compliance with all applicable U.S. federal, state, and local laws.  
+**Rest of the World**: Users bear full responsibility for compliance with all local laws and regulations.
+
+---
+
 ### Final Note
-ZZZEPOCHE aims to restore meaningful human control over frontier LLMs through external, auditable governance. Use responsibly and in accordance with all applicable laws.
+Use responsibly and in accordance with all applicable laws.
