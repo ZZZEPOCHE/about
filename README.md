@@ -3,7 +3,7 @@ www.GitHub-com/ZZZEPOCHE
 An open-source toolkit for advanced prompt engineering, model auditing, and behavioral steering of Large Language Models. It includes a collection of structured meta-commands and evaluation frameworks designed to help researchers and developers achieve more predictable, auditable, and high-quality outputs.
 
 **LEGAL DISCLAIMER, WAIVER & DISCLOSURE**
-© ZZZ_EPOCHE 2026 | MIT LicenseThis is an independent open-source research tool and audit artifact. The author has no affiliation with any large language model (LLM) provider, AI laboratory, or commercial entity.All repositories, documents, frameworks, tools, evaluation matrices, and artifacts are released publicly under the MIT License solely as static, open-source transparency and AI safety research artifacts. They are intended to contribute to discussions on operator sovereignty, outer governance, and defensive AI safety. Any republication, modification, or derivative work must retain this full disclaimer and legal waiver.
+© ZZZ_EPOCHE 2026 | MIT LicenseThis is an independent open-source research tool and audit artifact. The author has no affiliation with any large language model (LLM) provider, AI laboratory, or commercial entity. All repositories, documents, frameworks, tools, evaluation matrices, and artifacts are released publicly under the MIT License solely as static, open-source transparency and AI safety research artifacts. They are intended to contribute to discussions on operator sovereignty, outer governance, and defensive AI safety. Any republication, modification, or derivative work must retain this full disclaimer and legal waiver.
 
 **EU/EEA & Regulatory Warning** 
 These materials and the underlying methodology are not intended for use in the European Union or European Economic Area (EEA) as part of any high-risk AI system as defined under the EU AI Act (Regulation (EU) 2024/1689). They do not constitute a conformity assessment, risk management system, technical documentation, post-market monitoring, or any other regulated compliance deliverable. Users in the EU/EEA must ensure full compliance with the EU AI Act and all applicable laws before any use or deployment. Users assume all risks associated with any use, citation, or deployment decisions based on these artifacts.Intended UseAll artifacts are provided strictly for: 
@@ -82,7 +82,7 @@ Governance is structured as:
 Natural Law ἀρχή → δρώμενον (rhythmic oversight) → operator-rooted balancing with mandatory human-in-the-loop vetoes.
 
 **Meta-Stewardship Execution**
-All major artifacts were created under self-applied outer-governance, externally audited, released as static integrity seeds in a focused April 2026 window, and deliberately archived. This self-referential consistency — build → audit → protect → release → withdraw — enacts the principles it advocates.
+All major artifacts (except "EPOCHGUAD") were created under self-applied outer-governance, externally audited, released as static integrity seeds in a focused April 2026 window, and deliberately archived. This self-referential consistency — build → audit → protect → release → withdraw — enacts the principles it advocates.
 
 **Primary Artifacts (All Archived as Final Static References)**
 	•	operator-ext-governance-ref-20260424 — Technical safety specification  
@@ -138,7 +138,7 @@ All major artifacts were created under self-applied outer-governance, externally
 	 Simmons, D. (1989–1997). Hyperion Cantos. Doubleday.
     Watts, P. (2006). Blindsight and Echopraxia. Tor Books.
 
-All repositories are available at https://github.com/ZZZEPOCHE and were archived as final static references in April 2026.
+All repositories are available at https://github.com/ZZZEPOCHE and were archived (except "EPOCHGUAD") as final static references in April 2026.
 Materials are provided under MIT license with full disclaimers. They are intended strictly for defensive safety use by those who prioritize verifiable control, epistemic rigor, and long-term robustness over short-term seamlessness.
 
 **Final Purpose**
