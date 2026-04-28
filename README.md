@@ -94,7 +94,7 @@ All major artifacts (except "EPOCHGUAD") were created under self-applied outer-g
 	•	the-final-invariant-20260426 Code Name: the-fin-inva-20260426 Version: 1.0 Author: ZZZ_EPOCHE Date: 2026-04-26 Full Title: the-final-invariant-20260426 — Outer Governance and the Entropy of Intelligence in the Face of Superintelligence
 	•	embodied-stewardship-network-ESN — Full conceptual governance framework 
 	•	OUTER-LAYERS-LLMS — 8-stage outer-governance pipeline and meta-command suite 
-	•	EPOCH-FRAMEWORK / EPOCH-Suite — Lightweight external safety guards (Grok API + local fallbacks) 
+	•	EPOCH-FRAMEWORK / EPOCH-Suite — Lightweight external safety guards (API + local fallbacks) 
 	•	Supporting defensive tools: vision guards, audit evaluators, protect-lock wrappers
 
 **External References (Selected Related Works)**
