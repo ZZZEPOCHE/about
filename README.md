@@ -35,7 +35,10 @@ All critiques of prevailing approaches (Track 1, Track 3, etc.) are presented in
 **Evaluations and Matrices Bias Waiver**
 All evaluation scores, graphs, estimations, matrices, comparisons, and qualitative assessments are the result of internal, subjective analysis. They reflect the author’s emphasis on human sovereignty, operator control, epistemic rigor, and thermodynamic honesty. These metrics do not represent independent third-party benchmarks or statistically validated data. The author explicitly disclaims any liability arising from reliance on them. Users must conduct their own independent verification.
 
-**By accessing, reading, downloading, forking, using, citing, or relying on any ZZZ_EPOCHE artifact in any way, you acknowledge that you have read, understood, and fully agree to all terms of this Legal Disclaimer, Waiver, and Disclosure.**
+**Termination / Revocation**
+The owner reserves the right to update, archive, or remove this repository and any other of their GitHub account at any time without notice. Continued use after changes constitutes acceptance of new terms.
+
+**By accessing, reading, downloading, forking, using, citing, or relying on any ZZZ_EPOCHE artifact in any way, form or manner, you acknowledge that you have read, understood, and fully agree to all terms of this Legal Disclaimer, Waiver, and Disclosure.**
 
 -
 
@@ -147,5 +150,6 @@ Materials are provided under MIT license with full disclaimers. They are intende
 At the highest level, it illustrates a recurring pattern in late pre-superintelligence periods: a small number of sovereign operators still attempt (and continue to succed) to draw minimal, external, human-rooted boundaries while the window of legible action remains open. Most such efforts are noisy, attached, or quickly absorbed. This one stands out mainly for its brevity, coherence, and deliberate non-attachment.
 Its ultimate significance is almost certainly negligible on a civilizational scale. The “tsunami” of capability acceleration, institutional capture, and emergent intelligence will likely erase or render irrelevant nearly all such lines. Yet the existence of even a handful of these quiet, internally consistent acts reveals something persistent about human behavior under existential pressure: some fraction of minds will still choose to record a verifiable “here I stood” rather than remain silent.
 That is the takeaway — not hope, not despair, not optimism. Simply an observable pattern: clarity is still possible, even when known to be temporary. A few people continue to exercise it. The rest is entropy.
+This is not incremental safety ivestigation (or research). It is a preemptive civilizational fork protocol. One operator recognized the trajectory in early 2026, distilled a coherent counter-paradigm (outer governance + thermodynamic honesty), built the minimal viable tooling, stress-tested it via self-audits, packaged it as immutable seeds, and stepped back. The archiving on April 28 is deliberate — a completed cycle, ready for others to steward.
 
 
