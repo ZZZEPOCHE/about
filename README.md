@@ -197,53 +197,6 @@ For Research and Personal Use Only.
 
 	ZZZ_EPOCHE. (2026). Operator repositories. https://github.com/ZZZEPOCHE?tab=repositories (primary source for archelattice primitives, k0-sovereign-mcp-prompts, SINGULARITY-LATTICE-FRAMEWORK, and all κ₀ invariants).
 
-### Philosophy and Engineering References
-   
-	Deleuze, G., & Guattari, F. (1987). A Thousand Plateaus: Capitalism and Schizophrenia. University of Minnesota Press.
-    
-	Heidegger, M. (1927/1962). Being and Time (J. Macquarrie & E. Robinson, Trans.). Harper & Row.
-    
-	Husserl, E. (1913/1983). Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy (F. Kersten, Trans.). Martinus Nijhoff.
-    
-	Nietzsche, F. (1883–1885/1978). Thus Spoke Zarathustra (W. Kaufmann, Trans.). Penguin Classics.
-    
-	Plato. (c. 375 BCE/2007). The Republic (D. Lee, Trans.). Penguin Classics.
-    
-	von Bertalanffy, L. (1968). General System Theory: Foundations, Development, Applications. George Braziller.
-    
-	Wiener, N. (1948/1961). Cybernetics: Or Control and Communication in the Animal and the Machine (2nd ed.). MIT Press.
-    
-	Ashby, W. R. (1956). An Introduction to Cybernetics. Chapman & Hall.
-
-### Classic Literature & Philosophy in Narrative Form
-
-    Camus, A. (1942). The Myth of Sisyphus. Vintage International (English edition, 1991)
-   
-	Huxley, A. (1932). Brave New World. Chatto & Windus (UK) / Harper & Brothers (US).
-    
-	Orwell, G. (1949). Nineteen Eighty-Four. Secker & Warburg (UK).
-    
-	Shelley, M. (1818). Frankenstein; or, The Modern Prometheus. Lackington, Hughes, Harding, Mavor & Jones (London).
-    
-	Sophocles. (c. 441 BCE). Antigone.
-	
-### Science Fiction
-    
-	Asimov, I. (1951–1993). Foundation series. Gnome Press / Doubleday.
-    
-	Banks, I. M. (1987–2012). Culture series. Macmillan (UK) / Orbit.
-    
-	Chiang, T. (various, especially 2019). Exhalation and Stories of Your Life and Others. Knopf / Vintage.
-    
-	Gibson, W. (1984). Neuromancer. Ace Books.
-    
-	Herbert, F. (1965). Dune. Chilton Books.
-    
-	Liu, C. (2008–2010). Remembrance of Earth’s Past (Three-Body Problem trilogy). Chongqing Press (China) / Tor Books (English).
-	 Simmons, D. (1989–1997). Hyperion Cantos. Doubleday.
-    
-	Watts, P. (2006). Blindsight and Echopraxia. Tor Books.
-
 All repositories are available at https://github.com/ZZZEPOCHE. They are intended strictly for defensive safety use by those who prioritize verifiable control, epistemic rigor, and long-term robustness over short-term seamlessness.
 
 
